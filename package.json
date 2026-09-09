@@ -1,0 +1,16 @@
+{
+  "name": "sperli-js",
+  "version": "1.0.0",
+  "description": "api da pizzaria do senac",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch index.js"
+  },
+  "author": "sperli",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^6.0.0"
+  }
+}
